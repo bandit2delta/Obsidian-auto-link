@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "auto-link",
+	"name": "Auto-link",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatically creates wiki-style links while you type by matching words with existing files in your vault. Features include vault scanning, real-time linking, paste support, and quick undo functionality. Use Ctrl+Shift+L to scan vault, Ctrl+Shift+U to undo links, and Ctrl+Shift+T to toggle auto-linking.",
+	"author": "ODDITY",
+	
 	"isDesktopOnly": false
 }
